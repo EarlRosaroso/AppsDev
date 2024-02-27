@@ -1,0 +1,15 @@
+D:\Education\BSIT\BSIT 2-2\Appsdev\AppsDev\Assignment-Quiz-1\Assignment-Quiz-1\bin\Debug\net8.0\Assignment-Quiz-1.exe
+D:\Education\BSIT\BSIT 2-2\Appsdev\AppsDev\Assignment-Quiz-1\Assignment-Quiz-1\bin\Debug\net8.0\Assignment-Quiz-1.deps.json
+D:\Education\BSIT\BSIT 2-2\Appsdev\AppsDev\Assignment-Quiz-1\Assignment-Quiz-1\bin\Debug\net8.0\Assignment-Quiz-1.runtimeconfig.json
+D:\Education\BSIT\BSIT 2-2\Appsdev\AppsDev\Assignment-Quiz-1\Assignment-Quiz-1\bin\Debug\net8.0\Assignment-Quiz-1.dll
+D:\Education\BSIT\BSIT 2-2\Appsdev\AppsDev\Assignment-Quiz-1\Assignment-Quiz-1\bin\Debug\net8.0\Assignment-Quiz-1.pdb
+D:\Education\BSIT\BSIT 2-2\Appsdev\AppsDev\Assignment-Quiz-1\Assignment-Quiz-1\obj\Debug\net8.0\Assignment-Quiz-1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Education\BSIT\BSIT 2-2\Appsdev\AppsDev\Assignment-Quiz-1\Assignment-Quiz-1\obj\Debug\net8.0\Assignment-Quiz-1.AssemblyInfoInputs.cache
+D:\Education\BSIT\BSIT 2-2\Appsdev\AppsDev\Assignment-Quiz-1\Assignment-Quiz-1\obj\Debug\net8.0\Assignment-Quiz-1.AssemblyInfo.cs
+D:\Education\BSIT\BSIT 2-2\Appsdev\AppsDev\Assignment-Quiz-1\Assignment-Quiz-1\obj\Debug\net8.0\Assignment-Quiz-1.csproj.CoreCompileInputs.cache
+D:\Education\BSIT\BSIT 2-2\Appsdev\AppsDev\Assignment-Quiz-1\Assignment-Quiz-1\obj\Debug\net8.0\Assignment-Quiz-1.sourcelink.json
+D:\Education\BSIT\BSIT 2-2\Appsdev\AppsDev\Assignment-Quiz-1\Assignment-Quiz-1\obj\Debug\net8.0\Assignment-Quiz-1.dll
+D:\Education\BSIT\BSIT 2-2\Appsdev\AppsDev\Assignment-Quiz-1\Assignment-Quiz-1\obj\Debug\net8.0\refint\Assignment-Quiz-1.dll
+D:\Education\BSIT\BSIT 2-2\Appsdev\AppsDev\Assignment-Quiz-1\Assignment-Quiz-1\obj\Debug\net8.0\Assignment-Quiz-1.pdb
+D:\Education\BSIT\BSIT 2-2\Appsdev\AppsDev\Assignment-Quiz-1\Assignment-Quiz-1\obj\Debug\net8.0\Assignment-Quiz-1.genruntimeconfig.cache
+D:\Education\BSIT\BSIT 2-2\Appsdev\AppsDev\Assignment-Quiz-1\Assignment-Quiz-1\obj\Debug\net8.0\ref\Assignment-Quiz-1.dll
